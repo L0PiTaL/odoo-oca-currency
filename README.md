@@ -3,7 +3,6 @@
 [![Build Status](https://travis-ci.org/OCA/currency.svg?branch=10.0)](https://travis-ci.org/OCA/currency)
 [![codecov](https://codecov.io/gh/OCA/currency/branch/10.0/graph/badge.svg)](https://codecov.io/gh/OCA/currency)
 
-
 Currency
 ========
 Currency related Addons (crypto currencies, rate conversion, integrations with third party applications,...)
